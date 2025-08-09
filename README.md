@@ -1,5 +1,7 @@
 # FinPulse - Smart Daily Expense Tracker
 
+- Recremented to check source and README.md file from Github [HERE](https://github.com/Jdbarad/FinPulse/blob/main/README.md)
+
 FinPulse is a modern, offline-first expense tracking module for Android, designed to help small business owners digitize their operations. It provides a simple yet powerful interface to capture, view, analyze, and export daily expense records with ease.
 
 ## AI Usage Summary
