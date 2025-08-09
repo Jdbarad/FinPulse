@@ -138,3 +138,15 @@ You can download and install the latest APK for testing from the link below.
     <td><img src="screenshot/report.png" alt="Expense Report Screen" width="250"/></td>
   </tr>
 </table>
+
+
+## Resume
+[Dowload Resume](https://raw.githubusercontent.com/Jdbarad/FinPulse/refs/heads/main/JaypalsinhBarad-Resume.pdf) | [View Resume](JaypalsinhBarad-Resume.pdf)
+
+## Developed By
+### [Jaypalsinh Barad](https://jdbarad.github.io/)
+- <a href="https://drive.google.com/file/d/1JiBkVyoKgNYk8Ip6yn4kK7rIUMdSvoAu/view">Resume</a>
+- <a href="mailto:jdbarad1010@gmail.com">Mail</a>
+- <a href="https://www.github.com/Jdbarad">GitHub</a>
+- <a href="https://www.linkedin.com/in/jdbarad">LinkedIn</a>
+- <a href="https://twitter.com/jdbarad1010">Tweeter</a>
