@@ -86,6 +86,8 @@ DateFilterType add type for select date in range
 ```
 </details>
 
+### For details, prompt and response check [here](PROMPT.md)
+
 ## Features Checklist
 
 - [x] **MVVM Architecture**: Clean, scalable, and testable architecture.
